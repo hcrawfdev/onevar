@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-green-900 p-4 flex justify-between items-center">
+  <div class="bg-indigo-900 p-4 flex justify-between items-center">
     <!--   left side -->
     <div class="flex items-center">
       <img
